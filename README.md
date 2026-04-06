@@ -50,7 +50,7 @@ I built a Power BI report that:
 ---
 
 ## 📂 Repository Contents
-- `Video_Performance_Analysis.pbix` – Power BI report file  
+- `[Video_Performance_Analysis.pbix](https://github.com/Ivbuena/video-performance-analysis-powerbi/blob/main/Cumulative%20Video%20Earnings%20Analysi.pbit))` – Power BI report file  
 - `README.md` – Project documentation  
 
 ---
